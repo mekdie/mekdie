@@ -42,7 +42,7 @@ The technologies all around the world evolves, so do I evolve. Ancora Imparo - I
 
 📫You can reach me at [Linkedin](https://www.linkedin.com/in/mcdony-lee-angkasa-7a9b81187/)
 
-⚡ Fun fact - I like Philosophy and Astronomy
+⚡ Fun fact - I like I like cats, music, games, piano and badminton :D (and programming? oops)
 
 <br>
 
@@ -59,7 +59,7 @@ The technologies all around the world evolves, so do I evolve. Ancora Imparo - I
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=csharp&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-CakePHP-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-CakePHP-informational?style=flat&logo=cakephp&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=brightgreen)
@@ -67,18 +67,18 @@ The technologies all around the world evolves, so do I evolve. Ancora Imparo - I
 ![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
 <br>
 
 # GitHub Stats 📈
 
 <a href="https://github.com/mekdie/mekdie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekdie&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekdie&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact" />
 </a>
 
 <a href="https://github.com/mekdie/mekdie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mekdie&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Mekdie%20Karda%27s%20Github%20Stats" alt="Mekdie's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mekdie&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Mekdie%27s%20Github%20Stats" alt="Mekdie's GitHub Stats" />
 </a>
 <br><br>
 
