@@ -18,7 +18,7 @@
   </a>
 </p> -->
 
-# Hello Folks, I'm McDony Lee (or simply Mekdie) <img src="https://github.com/mekdie/mekdie/blob/main/wave.gif?raw=true" width="30">
+# Hello Everyone, I'm McDony Lee (or simply Mekdie) <img src="https://github.com/mekdie/mekdie/blob/main/wave.gif?raw=true" width="30">
 
  <!-- Profile views -->
  <img src="https://gpvc.arturio.dev/mekdie" align="center">
@@ -32,7 +32,7 @@ The technologies all around the world evolves, so do I evolve. Ancora Imparo - I
 
 </p>
 
-🌱 I’m currently learning React, along with JavaScript (still learning) and backend for it (probably nodeJS / MERN Stack with Firebase)
+🌱 I’m currently learning React, along with JavaScript (still learning) and BackEnd for it (probably NodeJS / MERN Stack with Firebase, any recommendation?)
 
 👯 I’m looking to collaborate on different projects
 
@@ -42,7 +42,7 @@ The technologies all around the world evolves, so do I evolve. Ancora Imparo - I
 
 📫You can reach me at [Linkedin](https://www.linkedin.com/in/mcdony-lee-angkasa-7a9b81187/)
 
-⚡ Fun fact - I like I like cats, music, games, piano and badminton :D (and programming? oops)
+⚡ Fun fact - I like cats, music, games, piano and badminton :D (and programming? hehe)
 
 <br>
 
