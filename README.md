@@ -26,7 +26,7 @@
  
  <p align="left">My name is McDony Lee (or my online nickname is simply Mekdie) and I'm a Fullstack Developer on progress.
   
-  I'm currently living Melbourne and just graduate with Bachelor of Information Technology majoring in Software Development. Currently seeking a full-time job in a developer role. In the meantime, I am learning new technologies that will enhance my skill in full stack web development. I chose React JS for it.
+  I'm currently living Melbourne and just graduate with Bachelor of Information Technology majoring in Software Development. Currently seeking a full-time job in a developer role. In the meantime, I am learning new technologies that will enhance my skill in full stack web development. Currently it's ReactJS and other related skills.
 
 The technologies all around the world evolves, so do I evolve. Ancora Imparo - I'm still learning
 
@@ -47,6 +47,8 @@ The technologies all around the world evolves, so do I evolve. Ancora Imparo - I
 <br>
 
 # Projects ⚙️
+
+Currently working on my first personal project, Mekdie react-pokedex ! Coming soon 2023
 
 # Technologies & Tools 🔧
 
@@ -92,9 +94,6 @@ The technologies all around the world evolves, so do I evolve. Ancora Imparo - I
 </a>
 <br><br>
 
-<a href="https://github.com/mekdie/mekdie">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mekdie&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Mekdie's GitHub Contributions Graph"/>
-</a>
 <br><br>
 
 ## Blog & Writing &#x270d;
@@ -116,7 +115,7 @@ TBD
   <img src="https://github-profile-trophy.vercel.app/?username=mekdie&theme=onedark&column=3&margin-w=15&margin-h=15" />
   </p>
   <br>
- <img src="https://metrics.lecoq.io/mekdie?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   
+ <!-- <img src="https://metrics.lecoq.io/mekdie?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>    -->
 </details>
 
 <!-- default README.md -->
