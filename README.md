@@ -1,4 +1,4 @@
-[![Header](https://github.com/mekdie/mekdie/blob/main/linkedin-banner.png?raw=true "Header")](https://www.linkedin.com/in/mcdony-lee-angkasa-7a9b81187/)
+[![Header](https://github.com/mekdie/mekdie/blob/main/linkedin-bannerV2.png?raw=true "Header")](https://www.linkedin.com/in/mcdony-lee-angkasa-7a9b81187/)
 
 <!-- <p align="center">
   <a href="https://rahulkarda.netlify.app" target="_blank">
