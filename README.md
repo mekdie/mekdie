@@ -26,7 +26,7 @@
  
  <p align="left">My name is McDony Lee (or my online nickname is simply Mekdie) and I'm a Fullstack Developer on progress.
   
-  I'm currently living Melbourne and just graduate with Bachelor of Information Technology majoring in Software Development. Currently seeking a full-time job in a developer role. In the meantime, I am learning new technologies that will enhance my skill in full stack web development. Currently it's ReactJS and other related skills.
+  I'm currently living Melbourne and just graduate with Bachelor of Information Technology majoring in Software Development. Currently I'm working as a Software Tester. During my leisure time, I am learning new technologies that will enhance my skill in full stack web development. Currently it's ReactJS and other related skills.
 
 The technologies all around the world evolves, so do I evolve. Ancora Imparo - I'm still learning
 
@@ -42,7 +42,7 @@ The technologies all around the world evolves, so do I evolve. Ancora Imparo - I
 
 📫You can reach me at [Linkedin](https://www.linkedin.com/in/mcdony-lee-angkasa-7a9b81187/)
 
-⚡ Fun fact - I like cats, music, games, piano and badminton :D (and programming? hehe)
+⚡ Fun fact - I like cats, music, games, piano and badminton :D (and programming?)
 
 <br>
 
