@@ -26,7 +26,7 @@
  
  <p align="left">My name is McDony Lee (or my online nickname is simply Mekdie) and I'm a Fullstack Developer on progress.
   
-  I'm currently living Melbourne and just graduate with Bachelor of Information Technology majoring in Software Development. Currently I'm working as a Software Tester. During my leisure time, I am learning new technologies that will enhance my skill in full stack web development. Currently it's ReactJS and other related skills.
+  I'm currently living in Australia and graduated with Bachelor of Information Technology majoring in Software Development. Currently I'm working as a Software Tester. During my leisure time, I am learning new technologies that will enhance my skill in full stack web development. Currently I'm focusing mainly on ReactJS with any backend choices.
 
 The technologies all around the world evolves, so do I evolve. Ancora Imparo - I'm still learning
 
@@ -48,7 +48,13 @@ The technologies all around the world evolves, so do I evolve. Ancora Imparo - I
 
 # Projects ⚙️
 
-Currently working on my first personal project, Mekdie react-pokedex ! Coming soon 2023
+Currently working on my personal projects:
+
+-   Pokedex
+-   Registration App
+-   Personal Resume
+
+Stay tune :) Work in progress
 
 # Technologies & Tools 🔧
 
@@ -96,7 +102,7 @@ Currently working on my first personal project, Mekdie react-pokedex ! Coming so
 
 <br><br>
 
-## Blog & Writing &#x270d;
+<!-- ## Blog & Writing &#x270d;
 
 TBD
 
@@ -116,7 +122,7 @@ TBD
   </p>
   <br>
  <!-- <img src="https://metrics.lecoq.io/mekdie?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>    -->
-</details>
+</details> -->
 
 <!-- default README.md -->
 <!-- ### Hi there, I'm McDony Lee (or simply Mekdie)👋 -->
@@ -135,4 +141,4 @@ TBD
 ---
 
 Credit: [mekdie](https://github.com/mekdie)
-Last Edited on: 30/11/2022
+Last Edited on: 15/04/2023
