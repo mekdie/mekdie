@@ -1,32 +1,14 @@
 [![Header](https://github.com/mekdie/mekdie/blob/main/linkedin-bannerV2.png?raw=true "Header")](https://www.linkedin.com/in/mcdony-lee-angkasa-7a9b81187/)
 
-<!-- <p align="center">
-  <a href="https://rahulkarda.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff&style=plastic&logo=realm&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahulkarda2002/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/rahulkarda2002" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://dev.to/rahulkarda" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cde928&style=plastic&logo=dev.to&logo-color=white"/>
-  </a>
-  <a href="resume.pdf" target="_blank" download="Resume.pdf">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p> -->
-
 # Hello Everyone, I'm McDony Lee (or simply Mekdie) <img src="https://github.com/mekdie/mekdie/blob/main/wave.gif?raw=true" width="30">
 
  <!-- Profile views -->
- <img src="https://gpvc.arturio.dev/mekdie" align="center">
+ <img src="https://komarev.com/ghpvc/?username=mekdie&color=green" align="center">
  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" align="right" height="300">
  
  <p align="left">My name is McDony Lee (or my online nickname is simply Mekdie) and I'm a Fullstack Developer on progress.
   
-  I'm currently living in Australia and graduated with Bachelor of Information Technology majoring in Software Development. Currently I'm working as a Software Tester. During my leisure time, I am learning new technologies that will enhance my skill in full stack web development. Currently I'm focusing mainly on ReactJS with any backend choices.
+  I'm currently living in Australia and graduated with Bachelor of Information Technology majoring in Software Development. Currently I'm working as a Software Tester. During my leisure time, I am learning new technologies that will enhance my skill in full stack web development. Currently I'm focusing mainly on ReactJS with any backend choices (C#/.NET, etc)
 
 The technologies all around the world evolves, so do I evolve. Ancora Imparo - I'm still learning
 
@@ -122,7 +104,7 @@ TBD
   </p>
   <br>
  <!-- <img src="https://metrics.lecoq.io/mekdie?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>    -->
-</details> -->
+</details>
 
 <!-- default README.md -->
 <!-- ### Hi there, I'm McDony Lee (or simply Mekdie)👋 -->
@@ -141,4 +123,4 @@ TBD
 ---
 
 Credit: [mekdie](https://github.com/mekdie)
-Last Edited on: 15/04/2023
+Last Edited on: 22/08/2023
