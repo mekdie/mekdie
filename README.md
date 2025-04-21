@@ -2,19 +2,23 @@
 
 # Hello Everyone, I'm McDony Lee (or simply Mekdie) <img src="https://github.com/mekdie/mekdie/blob/main/wave.gif?raw=true" width="30">
 
- <!-- Profile views -->
- <img src="https://komarev.com/ghpvc/?username=mekdie&color=green" align="center">
- <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" align="right" height="300">
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=mekdie&color=green" align="center">
+<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" align="right" height="300">
  
- <p align="left">My name is McDony Lee (or my online nickname is simply Mekdie) and I'm a Fullstack Developer on progress.
-  
-  I'm currently living in Australia and graduated with Bachelor of Information Technology majoring in Software Development. Currently I'm working as a Software Tester. During my leisure time, I am learning new technologies that will enhance my skill in full stack web development. Currently I'm focusing mainly on ReactJS with any backend choices (C#/.NET, etc)
+<p align="left">
 
-The technologies all around the world evolves, so do I evolve. Ancora Imparo - I'm still learning
+Hi there! I'm McDony Lee (online, I go by 'Mekdie') — a Full Stack Developer in progress based in Australia.
+I hold a Bachelor's degree in Information Technology, majoring in Software Development, and I'm currently working as a Software Tester / QA Analyst / Automation Test Engineer.
+
+In my free time, I love diving into new technologies to sharpen my skills in full stack development. Lately, I've been focusing on ReactJS on the frontend, paired with backends like C#/.NET and others.
+
+The tech world never stops evolving — and neither do I.
+Ancora Imparo — I'm still learning.
 
 </p>
 
-🌱 I’m currently learning React, along with JavaScript (still learning) and BackEnd for it (probably NodeJS / MERN Stack with Firebase, any recommendation?)
+🌱 I'm currently focused on building full stack applications with React at the core — not just for the web, but also with an eye toward cross-platform native app development using React Native. On the frontend, I'm using TypeScript alongside vanilla JavaScript to strengthen my foundation, and on the backend, I'm working with C# and .NET, while staying open to other solid backend technologies that suit the project.
 
 👯 I’m looking to collaborate on different projects
 
@@ -32,9 +36,9 @@ The technologies all around the world evolves, so do I evolve. Ancora Imparo - I
 
 Currently working on my personal projects:
 
--   Pokedex
--   Registration App
--   Personal Resume
+- Pokedex
+- MekdieCollectibles
+- Personal Resume
 
 Stay tune :) Work in progress
 
